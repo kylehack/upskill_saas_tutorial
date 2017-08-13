@@ -1,0 +1,4 @@
+User should see basic paln on home page
+User should see pro plan on home page
+basic plan link should send user to basic devise sign up page
+Pro plan link should point to custom sign up form
