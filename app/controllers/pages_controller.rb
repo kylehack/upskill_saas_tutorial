@@ -7,4 +7,7 @@ end
     end
 def about
 end
+def market
+end
+
 end
